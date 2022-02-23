@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for the promoting and propagating the gospel of Jesus Christ in New England</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38196</idno>
+            <idno type="STC">Wing E2505A</idno>
+            <idno type="STC">ESTC R29774</idno>
+            <idno type="EEBO-CITATION">11204885</idno>
+            <idno type="OCLC">ocm 11204885</idno>
+            <idno type="VID">46747</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38196)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46747)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1441:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for the promoting and propagating the gospel of Jesus Christ in New England</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edward Husband ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: pages creased with slight loss of print.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Indians of North America --  Missions.</term>
+               <term>Missions --  New England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="act">
+            <pb facs="tcp:46747:1"/>
+            <pb n="1" facs="tcp:46747:1" rendition="simple:additions"/>
+            <head>AN ACT For the promoting and propagating the GOSPEL OF Jeſus Chriſt IN <hi>NEW ENGLAND.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Commons of <hi>England</hi> aſſembled in Parliament, have received certain intelligence, by the teſtimonial of divers faithfull and god<g ref="char:EOLhyphen"/>ly Miniſters, and others in <hi>New-England,</hi> That divers the Heathen Natives of that Country, through the bleſſing of God upon the pious care and pains of ſome godly Engliſh of this Nation, who preach the Goſpel to them in their own <hi>Indian</hi> Language, who not onely of Barbarous are become Civil, but many of them forſaking their accuſtomed Charms and Sorceries, and other Satanical Deluſions, do now call upon the Name of the Lord, and give great teſtimony of the power of God drawing them from death and darkneſs, into the life and light of the glorious Goſ<g ref="char:EOLhyphen"/>pel of Jeſus Chriſt, which appeareth by their diligent attending on the Word ſo preached unto them, with tears lamenting their miſ-ſpent lives, teaching their
+<pb n="2" facs="tcp:46747:2"/>Children what they are inſtructed in themſelves, being careful to place their ſaid Children in godly Engliſh Families, and to put them to Engliſh Schooles, beta<g ref="char:EOLhyphen"/>king themſelves to one wife, putting away the reſt, and by their conſtant prayers to Almighty God morning and evening it their families, expreſſed (in all appea<g ref="char:EOLhyphen"/>rance) with much Devotion and Zeal of heart: All which conſidered, we cannot but in behalf of the Nation, repreſent, rejoyce and give glory to God, for the be<g ref="char:EOLhyphen"/>ginning of ſo glorious a propagation of the Goſpel of Jeſus Chriſt amongſt thoſe poor heathen, which cannot be proſecuted with that expedition and further ſuc<g ref="char:EOLhyphen"/>ceſs as is deſired, unleſs fit inſtruments be encouraged and maintained to purſue it, Univerſities, Schooles, and Nurſeries of literature ſetled for further inſtructing and civilizing them, Inſtruments and Materials fit for labor, and clothing, with other neceſſaries, as incouragements for the beſt deſerving among them, be provi<g ref="char:EOLhyphen"/>ded, and many other things neceſſary for ſo great a work; the furniſhing of all which will be a burthen too heavy for the Engliſh there (who although willing, yet unable) having in a great meaſure exhauſted their Eſtates in laying the Foun<g ref="char:EOLhyphen"/>dations of many hopeful Towns and Colonies in a deſolate Wilderneſs; and therefore conceive our ſelves of this Nation bound to be helpful in the promoting and advancing of a work ſo much tending to the honor of Almighty God. Be it therefore Enacted, and it is hereby Enacted by this preſent Parliament, and by the authority therof, That for the furthering ſo good a work, and for the purpoſes afore<g ref="char:EOLhyphen"/>ſaid, from henceforth there ſhall be a Corporation in <hi>England</hi> conſiſting of ſix<g ref="char:EOLhyphen"/>teen perſons <hi>(viz.)</hi> a Preſident, Treaſurer, and fourteen Aſſiſtants; And that <hi>William Steel</hi>
+               <abbr>Eſq</abbr>
+               <hi>Harbert Pelham</hi>
+               <abbr>Eſq</abbr>
+               <hi>James Sherley, Abraham Babington, Robert Hough<g ref="char:EOLhyphen"/>ton, Richard Hutchinſon, George Dun, Robert Tomſon, William Mullins, John Hodg<g ref="char:EOLhyphen"/>ſon, Edward Parks, Edward Clud,</hi> and <hi>Richard Lloyd, Thomas Ares, John Stone,</hi> and <hi>Edward Winſlow,</hi> Citizens of <hi>London,</hi> be the firſt ſixteen perſons whereof the ſaid Corporation ſhall conſiſt; out of whom the ſaid ſixteen perſons, at ſuch time and place as they ſhall think fit, by themſelves or the greater number of them, ſhall elect and chooſe one of the ſaid ſixteen perſons to be Preſident, and another of them to be the preſent Treaſurer; and <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at the ſaid ſixteen perſons, or the grea<g ref="char:EOLhyphen"/>ter number of them, ſhall have power, and are hereby authorized at any time or times, to Elect a new Preſident, Treaſurer, or Aſſiſtants, ſo often, and from time to time as any the ſaid Preſident, Treaſurer and aſſiſtants ſhall dye or be amoved; which ſaid Preſident, Treaſurer and Aſſiſtants for the time being, ſhall for ever hereafter in name and fact be one Body Politique and Corporate in Law, to all intents and purpoſes; and ſhall have perpetual Succeſſion, and ſhall be called by the name of the Preſident and Society for propagation of the Goſpel in <hi>New-England;</hi> and ſhall be from time to time Eligible as aforeſaid; and by that name they and their Succeſſors ſhall and may, without Licenſe in Mortmain, Purchaſe or Acquire to themſelves, any Lands, Tenements, or Hereditaments in <hi>England</hi> or <hi>Wales,</hi> not exceeding the yearly value of Two thouſand pounds; and any goods and ſums of money whatſoever, to the uſes and purpoſes herein limited and ex<g ref="char:EOLhyphen"/>preſſed, and ſue or plead, and be ſued or impleaded by the name aforeſaid, in all Courts and places of Judicature in <hi>England</hi> or <hi>Wales:</hi> And that the perſons of the ſaid Corporation, or any nine of them, ſhall have power, and are hereby authori<g ref="char:EOLhyphen"/>zed when they ſhall think fit, to make and appoint a common Seal for the uſe of the ſaid Corporation; and from time to time to meet and chooſe ſuch Officers, and make ſuch allowance to them, and them alſo to remove, and after death or re<g ref="char:EOLhyphen"/>moval, to chooſe ſuch others; and to make from time to time ſuch Orders and By-Laws, for the better ordering and carrying on of this work, as they ſhall think fir; and alſo to make concluſive bargains for Lands and Tenements, to be purcha<g ref="char:EOLhyphen"/>ſed by the ſaid Corporation for valuable conſideration. And for the better or<g ref="char:EOLhyphen"/>dering of the Government of the ſaid Corporation, Be it enacted by the authority
+<pb n="3" facs="tcp:46747:2"/>aforeſaid, That the Preſident or Treaſurer, and foure or more Aſſiſtants, ſhall and may from time to time, upon ſummons from the Preſident or Treaſurer, hold a meeting for the debating and concluding of affaires concerning the Collecting and bringing in the profits and revenues (to the ſaid Corporation accrewing) into their Treaſurie; and for direction in all emergent occaſions, execution of all Orders and By-Laws, and for Summons of a generall meeting of all the So<g ref="char:EOLhyphen"/>ciety, as the cauſe ſhall require: In all which the concluſion ſhall be made by the ſaid Preſident or Treaſurer, and the ſaid Aſſiſtants, or the major part of them, the ſaid Preſident or Treaſurer, and Aſſiſtants ſo meeting, and that they ſhall and may adjourn their meeting from time to time, as ſhall be by them deemed moſt expedient.</p>
+            <p>And it is Enacted by the Authority aforeſaid, That the Commiſſioners of the United Colonies of <hi>New-Engl.</hi> in <hi>New-England</hi> for the time being, by themſelves or ſuch as they ſhall appoint, ſhall have hereby Power and authority to receive and diſpoſe of the monies brought in and paid to the ſaid Treaſurer for the time being, or any other moneys, goods and commodities, acquired and delivered by the care of the ſaid Corporation at any time; Whoſe Receipt, or the Reccipts of ſuch perſon and Perſons ſo authoriſed by them, ſhall be a ſufficient diſcharge to the ſaid Corporation and Treaſurer; Which ſaid Commiſſioners are hereby Ordered and appointed, to diſpoſe of the ſaid monies in ſuch manner as ſhall beſt and Princi<g ref="char:EOLhyphen"/>pally conduce to the Preaching and propagating the Goſpell of Jeſus Chriſt a<g ref="char:EOLhyphen"/>mongſt the Natives; And alſo for maintaining of Schooles and Nurſeries of Learning, for the better Education of the children of the Natives: And foraſmuch as we cannot but be induced from the conſideration of the Premiſes, to recom<g ref="char:EOLhyphen"/>mend the furthering thereof to the charity of all ſuch whoſe hearts God ſhall in<g ref="char:EOLhyphen"/>cline thereunto, by their Chriſtian and charitable contributions, to be as the Foundation of ſo Pious and great an undertaking; Be it therefore, and it is hereby Enacted by the Parliament aſſembled, and by the authority thereof, That a gene<g ref="char:EOLhyphen"/>rall Co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ection <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> all the counties, cities, Towns and Pariſhes of <hi>England</hi> and <hi>Wales:</hi> And for the more ſpeedy and better effecting thereof, Be it Enacted by the authority aforeſaid, That the ſeve<g ref="char:EOLhyphen"/>rall Miniſters within the ſaid ſeverall places, are hereby required to read this Act or a copy thereof, in the preſence of their ſeverall congregations, upon the next Lords Day after the ſame ſhall be delivered unto them, and to exhort the People to a chearfull and lyberall contribution, and are to give their beſt aſiſtance to ſo pi<g ref="char:EOLhyphen"/>ous a worke; and the Miniſters and church-wardens, or Overſeers of the Poor of every ſuch Pariſh and place, together with ſuch other well-affected Perſons as God ſhall ſtir up to be active in ſuch an undertaking, and as ſhall be nominated and aproved by the Miniſter for that purpoſe, are hereby authoriſed after the rea<g ref="char:EOLhyphen"/>ding hereof, to go with all convenient ſpeed from houſe to houſe, to every of the Inhabitants of the ſaid Pariſhes and Places reſpectively, and to take the Sub<g ref="char:EOLhyphen"/>ſcription of every ſuch perſon in a Schedule to be preſented by them for that pur<g ref="char:EOLhyphen"/>poſe, and accordingly at the ſame time to collect and gather the ſame; A Duplicate whereof, as alſo the money ſo to be collected, ſhall be paid within ten daies after the collection ſo made into the hands of Perſons of quallity reſident in each Coun<g ref="char:EOLhyphen"/>ty, ſpecially deputed by the ſaid Corporation under their common Seale; to be Treaſurers for the receiving of the ſane; and the names of ſuch reſpective Treaſu<g ref="char:EOLhyphen"/>rers ſhall be notified in writing to every place whereſoever ſuch collection is to be made; and the receipt under the land of ſuch reſpective Treaſurer ſo appoint<g ref="char:EOLhyphen"/>ed and authoriſed, ſhall be a ſufficient diſcharge for the ſaid ſeverall Miniſters, churchwardens, and Overſeers, for the collection by them payd. Provided all-waies That this Act or any thing therein contained, ſhall not be conſtrued to ex<g ref="char:EOLhyphen"/>tend
+<pb n="4" facs="tcp:46747:3"/>to the enabling or allowing of tranſportation of any Gold, Silver, Plate, Bullion, Money, or other commodities inhibited by the Lawes and Statutes of this Nation, other or otherwiſe then according to the ſaid Lawes and Statutes, and the true ſence and meaning of them.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+         </div>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>Die Veneris, 27 July, 1649.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Commons aſſembled in Parliament, That this Act be forth<g ref="char:EOLhyphen"/>with printed and publiſhed.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+         </div>
+         <div type="offer_of_public_disclosure">
+            <p>THe Corporation within mentioned, deſire all men to take notice, That all ſuch whom God ſhall ſtir up to contribute to help forward this great worke, may repaire to Coopers Hall in <hi>London,</hi> where the ſaid Corporation <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> have the ſight of their bookes, how the Moneys collected and received for the uſe above-ſaid, are from time to time diſpoſed and improved, according to the true intent and mean<g ref="char:EOLhyphen"/>ing of the ſaid Act.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Husband,</hi> Printer to the Parliament of <hi>England,</hi> and are to be ſold at his Shop in Fleetſtreet, at the Sign of the Golden-Dragon, nere the Inner-Temple, 1649.</p>
+            <pb facs="tcp:46747:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
